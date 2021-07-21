@@ -79,4 +79,5 @@ public class smartBear_StepDefinitions {
         String actualName = smartBearPage.johnWick.getText();
         Assert.assertEquals("John Wick is the list",actualName,expectName);
     }
+
 }

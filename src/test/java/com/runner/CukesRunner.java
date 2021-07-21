@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/feature",
         glue = "com/step_Definitions",
         dryRun = false,
-        tags = "@smartBear"
+        tags = "@smartBear2"
 )
 public class CukesRunner {
 }
